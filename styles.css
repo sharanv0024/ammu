@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+
+body {
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #17231b;
+  display: flex;
+  font-family: 'Muli', sans-serif;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  min-height: 100vh;
+}
+h1{
+    color: aliceblue;
+}
